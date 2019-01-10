@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "36558220149",
+    "firebase_url": "https://afwapp-a433c.firebaseio.com",
+    "project_id": "afwapp-a433c",
+    "storage_bucket": "afwapp-a433c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36558220149:android:466fc0db087b7b40",
+        "android_client_info": {
+          "package_name": "org.wit.archaeologicalfieldwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36558220149-m3ndqvjqlk30mcacfu19ii4u12e4g9s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBIi3VZSq3B7Z7oBNRzSiOvaLGx1tvOxM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
